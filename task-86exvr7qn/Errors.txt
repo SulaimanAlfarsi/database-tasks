@@ -1,0 +1,7 @@
+Statement                  Error
+------------------------------------------------
+INSERT Employee before Department    ORA-02291: parent key not found
+Duplicate Department Dnum            ORA-00001: unique constraint violated
+Delete Department with Employees     ORA-02292: child record found
+Insert Works_On with wrong SSN       ORA-02291: parent key not found
+Insert duplicate Works_On row        ORA-00001: unique constraint violated
