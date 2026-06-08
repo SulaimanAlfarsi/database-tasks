@@ -1,0 +1,83 @@
+Part 3 – Enterprise Decision Thinking
+1. Why might a bank choose Oracle instead of MySQL?
+
+Banks need strong security, high performance, and reliable systems. Oracle provides advanced security and enterprise support.
+
+2. Why might a startup choose PostgreSQL instead of Oracle?
+
+PostgreSQL is free and open source. It helps startups save money while still providing many powerful features.
+
+3. Why do some companies stay with SQL Server?
+
+Many companies already use Microsoft products. SQL Server works well with Windows, Azure, and other Microsoft tools.
+
+4. How does cloud infrastructure affect database decisions?
+
+Companies choose databases that work well in the cloud because cloud systems are easier to scale and manage.
+
+5. Why do enterprise companies pay for commercial databases?
+
+They pay for professional support, better security, regular updates, and guaranteed reliability.
+
+Part 4 – Architecture & Scalability Thinking
+1. Which DBMS is commonly used in enterprise systems?
+
+Oracle and SQL Server are commonly used because they provide strong security and support.
+
+2. Which DBMS is commonly used by startups?
+
+PostgreSQL and MySQL are popular because they are free and flexible.
+
+3. Which DBMS is commonly used in government sectors?
+
+Oracle and SQL Server are often used because they meet security and compliance requirements.
+
+4. Which DBMS is commonly used in cloud-native systems?
+
+PostgreSQL and MySQL are widely used because they integrate well with cloud platforms.
+
+5. Which DBMS is commonly used in banking systems?
+
+Oracle is widely used because of its security and reliability.
+
+6. Which DBMS is commonly used in large transactional environments?
+
+Oracle and SQL Server are commonly used because they handle large numbers of transactions efficiently.
+
+Part 5 – Migration & Industry Reflection
+1. If most DBMS systems support similar features, why do companies choose different DBMS technologies?
+
+Each DBMS has different strengths, costs, performance levels, and support options. Companies choose the one that best fits their needs.
+
+2. Why do companies migrate from one DBMS to another?
+
+They may want lower costs, better performance, improved security, or cloud support.
+
+3. What technical challenges may appear during migration?
+
+Data conversion problems, compatibility issues, and possible downtime can occur.
+
+4. What business challenges may appear during migration?
+
+Migration can be expensive, time-consuming, and may require employee training.
+
+5. Why are migration projects considered high-risk?
+
+There is a risk of data loss, system failures, or service interruptions.
+
+6. How do database architecture decisions affect long-term software systems?
+
+The database affects performance, scalability, maintenance costs, and future growth of the system.
+
+Oracle Reflection
+Why is Oracle heavily used in enterprise environments?
+
+Oracle is reliable, secure, and designed for large business systems.
+
+Why do banks and telecom companies often depend on Oracle?
+
+Because they need high performance, strong security, and continuous availability.
+
+What makes Oracle architecture different from traditional DBMS environments?
+
+Oracle provides advanced features such as CDB, PDB, high availability, and enterprise-level management.
